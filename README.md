@@ -1,5 +1,5 @@
 ## Welcome <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/wave.gif?raw=1" width="24px">                                                                                                  
-<img align="right" alt="GIF" src="https://github.com/borislavstoychev/borislavstoychev/blob/main/122.gif" width="400vw" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="400vw" />
 
 
 I'm a self taught computer programmer who is passionate about writing code, solving problems, automating stuff, building software and hardware.
