@@ -16,7 +16,7 @@ I'm a self taught computer programmer who is passionate about writing code, solv
 
 ### Contact me or stalk 
 <a href="mailto:stoy4ew@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
-<a href="www.linkedin.com/in/borislav-stoychev-0b3a5720b">
+<a href="https://www.linkedin.com/in/borislav-stoychev-0b3a5720b/">
   <img align="left" alt="LinkedIn" width="30px" src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" />
 </a>
 
