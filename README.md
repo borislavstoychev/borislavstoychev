@@ -1,5 +1,5 @@
 ## Welcome <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/wave.gif?raw=1" width="24px">                                                                                                  
-<img align="right" alt="GIF" src="https://github.com/borislavstoychev/borislavstoychev/blob/main/122.gif" width="200vw" />
+<img align="right" alt="GIF" src="https://github.com/borislavstoychev/borislavstoychev/blob/main/122.gif" width="400vw" />
 
 
 I'm a self taught computer programmer who is passionate about writing code, solving problems, automating stuff, building software and hardware.
@@ -10,7 +10,7 @@ I'm a self taught computer programmer who is passionate about writing code, solv
 <br/>
 <a href="https://github.com/borislavstoychev">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=borislavstoychev&theme=chartreuse-dark&show_icons=true" />
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borislavstoychev&theme=dark&layout=compact" />
+  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borislavstoychev&theme=dark&layout=compact" />
 </a>
 <br/>
 
