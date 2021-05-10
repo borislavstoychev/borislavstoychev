@@ -1,16 +1,36 @@
-### Hi there 👋
+## Welcome <img src="https://github.com/deut-erium/deut-erium/blob/master/assets/wave.gif?raw=1" width="24px">                                                                                                  
+<img align="right" alt="GIF" src="https://github.com/borislavstoychev/borislavstoychev/blob/main/122.gif" width="400vw" />
 
-<!--
-**borislavstoychev/borislavstoychev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a self taught computer programmer who is passionate about writing code, solving problems, automating stuff, building software and hardware.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 I’m currently learning backend web development using Python
+- 👯 I’m looking for a software development internship. 
+
+<br/>
+
+<a href="https://github.com/borislavstoychev">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=borislavstoychev&theme=chartreuse-dark&show_icons=true" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borislavstoychev&theme=dark&layout=compact" />
+</a>
+<br/>
+
+### Contact me or stalk 
+
+
+<a href="mailto:stoy4ew@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="22px" alt="mail"></a> &nbsp; &nbsp;
+<a href="www.linkedin.com/in/borislav-stoychev-0b3a5720b">
+  <img align="left" alt="LinkedIn" width="22px" src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" />
+</a>
+
+
+<br />
+
+
+### 👨‍💻 Currently using:
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-E34F26?style=flat&logo=JavaScript&logoColor=yellow&link=https://github.com/borislavstoychev/SoftUni)](https://github.com/borislavstoychev/SoftUni)  
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/borislavstoychev)](https://github.com/borislavstoychev) 
+[![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=yellow&link=https://github.com/borislavstoychev/Soft_Uni)](https://github.com/borislavstoychev/Soft_Uni) 
+
+⭐️⭐️⭐️⭐️⭐️
