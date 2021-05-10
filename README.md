@@ -10,7 +10,7 @@ I'm a self taught computer programmer who is passionate about writing code, solv
 <br/>
 <a href="https://github.com/borislavstoychev">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=borislavstoychev&theme=chartreuse-dark&show_icons=true" />
-  <img height="122em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borislavstoychev&theme=dark&layout=compact" />
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borislavstoychev&theme=dark&layout=compact" />
 </a>
 <br/>
 
