@@ -33,7 +33,6 @@ I'm a self taught computer programmer who is passionate about writing code, solv
 
 <h3 align="right">Contact me or stalk</h3>
 
-<a href="tel:+359877595926"><img align="right" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Phone_Shiny_Icon.svg" width="30px" alt="phone"></a>
 <a href="mailto:stoy4ew@gmail.com"><img align="right" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a>
 <a href="https://www.linkedin.com/in/borislav-stoychev-0b3a5720b/"><img align="right" alt="LinkedIn" width="30px" src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" />
 </a>
