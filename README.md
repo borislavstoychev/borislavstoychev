@@ -20,7 +20,9 @@ I'm a self taught computer programmer who is passionate about writing code, solv
 </a>
 
 <h3 Currently using:</h3>
+<p>
 [![JavaScript](https://img.shields.io/badge/-JavaScript-E34F26?style=flat&logo=JavaScript&logoColor=yellow&link=https://github.com/borislavstoychev/SoftUni)](https://github.com/borislavstoychev/SoftUni) [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/borislavstoychev)](https://github.com/borislavstoychev) [![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=yellow&link=https://github.com/borislavstoychev/Soft_Uni)](https://github.com/borislavstoychev/Soft_Uni)
+ </p>
 
 ⭐️⭐️⭐️⭐️⭐️
 
