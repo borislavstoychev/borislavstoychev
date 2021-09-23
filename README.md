@@ -13,14 +13,8 @@ I'm a self taught computer programmer who is passionate about writing code, solv
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borislavstoychev&theme=dark&layout=compact" />
 </a>
 <br/>
-
-<h3 align="right">Contact me or stalk</h3>
-<a href="mailto:stoy4ew@gmail.com"><img align="right" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a>
-<a href="https://www.linkedin.com/in/borislav-stoychev-0b3a5720b/"><img align="right" alt="LinkedIn" width="30px" src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" />
-</a>
-
 <h3> Currently using: </h3>
-<p>
+<p align='center'>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
@@ -44,6 +38,11 @@ I'm a self taught computer programmer who is passionate about writing code, solv
 <br>
 
 <p align="center">
+
+<h3 align="right">Contact me or stalk</h3>
+<a href="mailto:stoy4ew@gmail.com"><img align="right" src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a>
+<a href="https://www.linkedin.com/in/borislav-stoychev-0b3a5720b/"><img align="right" alt="LinkedIn" width="30px" src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" />
+</a>
 
 
 ⭐️⭐️⭐️⭐️⭐️
