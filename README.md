@@ -16,7 +16,7 @@ I'm a self taught computer programmer who is passionate about writing code, solv
 <h3 align='center'>🛠 Currently using: </h3>
 <p align='center'>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://res.cloudinary.com/dveogwez3/image/upload/v1632394481/CSS3_ilfpsh.svg" />
+<img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" />
   
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
