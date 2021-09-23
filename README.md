@@ -19,7 +19,7 @@ I'm a self taught computer programmer who is passionate about writing code, solv
 <a href="https://www.linkedin.com/in/borislav-stoychev-0b3a5720b/"><img align="right" alt="LinkedIn" width="30px" src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" />
 </a>
 
-### 👨‍💻 Currently using:
+<h3 Currently using:</h3>
 [![JavaScript](https://img.shields.io/badge/-JavaScript-E34F26?style=flat&logo=JavaScript&logoColor=yellow&link=https://github.com/borislavstoychev/SoftUni)](https://github.com/borislavstoychev/SoftUni) [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/borislavstoychev)](https://github.com/borislavstoychev) [![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=yellow&link=https://github.com/borislavstoychev/Soft_Uni)](https://github.com/borislavstoychev/Soft_Uni)
 
 ⭐️⭐️⭐️⭐️⭐️
