@@ -2,7 +2,7 @@
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="400vw" />
  -->
  
-<img width="150" height="40" align="center" src="https://visitor-badge.glitch.me/badge?page_id=borislavstoychev">
+<img width="24px" height="40" align="center" src="https://visitor-badge.glitch.me/badge?page_id=borislavstoychev">
 
 I'm a self taught computer programmer who is passionate about writing code, solving problems, automating stuff, building software and hardware.
 
