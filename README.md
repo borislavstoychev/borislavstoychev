@@ -3,7 +3,7 @@
 I'm a self taught computer programmer who is passionate about writing code, solving problems, automating stuff, building software and hardware.
 
 - 📚 I’m currently learning backend web development using Python
-- 👯 I’m looking for a software development internship. 
+- 📝 I’m looking for a software development internship. 
 
 <br/>
 <a href="https://github.com/borislavstoychev">
